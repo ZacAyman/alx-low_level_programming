@@ -1,8 +1,9 @@
 #include <stdio.h>
 /*
-* main - It is going good with printf function
+* main - Print the size of the vriables types
 *Return:0(hello)
-**/
+*
+*/
 int main(void)
 {
 char d = 1;
